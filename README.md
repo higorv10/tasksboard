@@ -134,5 +134,5 @@ ALTER TABLE BLOCKS MODIFY COLUMN `unblock_reason` VARCHAR(255) `NULL`;
   - As migrações do banco são executadas automaticamente ao iniciar a aplicação, garantindo que a estrutura do banco esteja sempre atualizada.
 
 ## 📄 Licença
-Desenvolvido durante o Bootcamp Bradesco Java Cloud Native na DIO para fins educacionais.
+Este projeto está sob a licença MIT.
 
